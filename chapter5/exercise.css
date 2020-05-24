@@ -10,30 +10,31 @@
   clear: both;
 }
 
-.headline{
-  margin: 20px auto;
+header{
+  width: 100%;
+  margin: 20px 0;
   text-align: center;
-
 }
-.nav{
-  height: 60px;
-  border: 1px solid #848282;
+header .headline{
+  font-size: 32px;
 }
-.list{
-  padding: 15px auto;
+.nav-list{
   text-align: center;
+  padding: 15px 0;
   margin: 0 auto;
+  border-bottom: 1px solid #848282;
+  border-top: 1px solid #848282;
 }
-.list-item{
+
+.nav-list-item{
   list-style: none;
   display: inline-block;
-  margin: 15px 20px;
+  margin: 0 20px;
 }
 
 .main{
   margin: 50px auto;
   width: 800px;
-  height: 600px;
 }
 
 .box1{
