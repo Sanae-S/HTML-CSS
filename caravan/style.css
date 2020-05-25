@@ -77,6 +77,10 @@ main{
 }
 .blog-image{
   height: 180px;
+  float: left;
+}
+.blog-text{
+  float: left;
 }
 .category{
   display: inline-block;
