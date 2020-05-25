@@ -70,6 +70,9 @@ main{
   text-align: center;
   line-height: 0.6;
 }
+.blog-box{
+  padding-top: 50px;
+}
 .blog-item{
   padding-bottom: 20px;
   margin-bottom: 20px;
