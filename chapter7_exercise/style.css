@@ -13,6 +13,10 @@
   background-position: bottom;
 }
 
+.main-visual-text{
+ margin: 20px;
+}
+
 main{
   width: 840px;
   margin: 20px auto 50px;
