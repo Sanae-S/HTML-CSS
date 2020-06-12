@@ -26,7 +26,7 @@ header .headline{
 }
 .nav-list{
   text-align: center;
-  padding:10px 0;
+  padding: 10px 0;
   margin: 0 auto;
 }
 .nav-list-item{
@@ -79,19 +79,20 @@ main{
   border-bottom: 1px solid #f7f7f7;
 }
 .blog-image{
-  height: 180px;
   float: left;
+  height: 180px;
+}
+.blog-text-headline{
+  padding-bottom: 15px;
 }
 .blog-text{
   float: left;
   padding: 30px 0 0 25px;
 }
-.blog-text-headline{
-  padding-bottom: 15px;
-}
+
 .blog-date{
-  font-size: 12px;
   display: inline-block;
+  font-size: 12px;
 }
 .category{
   display: inline-block;
@@ -126,7 +127,7 @@ main{
 .instagram-box{
   float: left;
   width: 110px;
-  padding: 110px;
+  padding-top: 110px;
   background-size: cover;
   background-position: center;
 }
